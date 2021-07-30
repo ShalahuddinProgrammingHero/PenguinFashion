@@ -1,0 +1,41 @@
+/* Google Fonts Use */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid black; */
+}
+body {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.primary-color{
+    color: #FABE4C;
+    ;
+}
+.btn-style {
+    color: white;
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    border: 1px solid #85A019;
+}
+.btn-style:hover {
+    color: white;
+    border: 1px solid #3543BC;
+}
+/* Header Secttion Style Start */
+
+header {
+    background: #FFF9F4;
+
+}
+
+
+/* Navbar Secttion Style Start */
+.navbar-section .logo {
+    width: 200px;
+    height: 40px;
+}
+/* Navbar Secttion Style End */
+
+
+/* Header Secttion Style End */
